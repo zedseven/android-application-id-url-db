@@ -1,0 +1,41 @@
+# Separators: '|' for separating domains and application IDs, and both sides can have multiple entries delimited by commas
+amazon.com, amazon.ca, amazon.co.uk, amazon.co.jp | com.amazon.mShop.android.shopping, com.audible.application
+atlassian.com | com.atlassian.android.jira.core, com.trello
+backblaze.com | com.backblaze.android
+bandcamp.com | com.bandcamp.android
+blizzard.com, battle.net | com.blizzard.bma
+desmos.com | com.desmos.calculator, com.desmos.scientific
+discord.com, discordapp.com, discord.gg | com.discord
+disneyplus.com | com.disney.disneyplus
+ebay.com, ebay.ca | com.ebay.mobile
+etsy.com, etsy.ca | com.etsy.android
+facebook.com, facebook.ca | com.facebook.orca
+g2a.com | com.g2a.marketplace
+github.com | com.github.android, com.fastaccess.github
+gog.com | io.chthonic.gog.client
+gumroad.com | com.gumroad.app
+habitica.com | com.habitrpg.android.habitica
+imgur.com | com.imgur.mobile
+instagram.com | com.instagram.android
+kijiji.com | com.ebay.kijiji.ca, ecg.move.ca
+kik.com | kik.android
+linkedin.com | com.linkedin.android
+mega.nz | mega.privacy.android.app
+mozilla.org, mozilla.com, firefox.com | org.mozilla.firefox, org.mozilla.firefox_beta, org.mozilla.focus, org.mozilla.fennec_aurora, org.mozilla.fenix, org.mozilla.fenix.nightly, org.mozilla.firefoxsend
+mullvad.net | net.mullvad.mullvadvpn, de.blinkt.openvpn
+netflix.com | com.netflix.mediaclient
+nintendo.com | com.nintendo.znca
+oneplus.com, oneplus.net | net.oneplus.forums, com.oneplus.card
+patreon.com | com.patreon.android
+paypal.com | com.paypal.android.p2pmobile
+reddit.com | com.reddit.frontpage, com.andrewshu.android.reddit, com.andrewshu.android.redditdonation
+snapchat.com | com.snapchat.android
+soundcloud.com | com.soundcloud.android
+spotify.com | com.spotify.music
+stackoverflow.com, stackexchange.com | com.stackexchange.marvin
+steampowered.com, steamcommunity.com | com.valvesoftware.android.steam.community
+trello.com | com.trello
+twitch.tv | tv.twitch.android.app
+twitter.com | com.twitter.android
+vimeo.com | com.vimeo.android.videoapp
+wolfram.com | com.wolfram.android.alpha
