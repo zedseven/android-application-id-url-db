@@ -1,5 +1,5 @@
 # Separators: '|' for separating domains and application IDs, and both sides can have multiple entries delimited by commas
-amazon.com, amazon.ca, amazon.co.uk, amazon.co.jp | com.amazon.mShop.android.shopping, com.audible.application
+amazon.com, amazon.ca, amazon.co.uk, amazon.co.jp | com.amazon.mShop.android.shopping, com.audible.application, com.amazon.avod.thirdpartyclient
 atlassian.com | com.atlassian.android.jira.core, com.trello
 backblaze.com | com.backblaze.android
 bandcamp.com | com.bandcamp.android
@@ -9,10 +9,11 @@ discord.com, discordapp.com, discord.gg | com.discord
 disneyplus.com | com.disney.disneyplus
 ebay.com, ebay.ca | com.ebay.mobile
 etsy.com, etsy.ca | com.etsy.android
-facebook.com, facebook.ca | com.facebook.orca
+facebook.com, facebook.ca | com.facebook.katana, com.facebook.lite, com.facebook.orca, com.facebook.mlite, com.facebook.pages.app
 g2a.com | com.g2a.marketplace
 github.com | com.github.android, com.fastaccess.github
 gog.com | io.chthonic.gog.client
+google.com, google.ca, google.co.uk, gmail.com | com.google.android.gm, com.google.android.youtube, com.google.android.talk, com.google.android.apps.tachyon, com.google.ar.lens, com.google.android.play.games, com.google.android.apps.classroom, com.google.android.apps.walletnfcrel
 gumroad.com | com.gumroad.app
 habitica.com | com.habitrpg.android.habitica
 imgur.com | com.imgur.mobile
@@ -21,19 +22,25 @@ kijiji.com | com.ebay.kijiji.ca, ecg.move.ca
 kik.com | kik.android
 linkedin.com | com.linkedin.android
 mega.nz | mega.privacy.android.app
+microsoft.com, microsoft.net, outlook.com, live.com, msn.com, msn.net | com.microsoft.office.outlook, com.microsoft.office.onenote, com.microsoft.todos
 mozilla.org, mozilla.com, firefox.com | org.mozilla.firefox, org.mozilla.firefox_beta, org.mozilla.focus, org.mozilla.fennec_aurora, org.mozilla.fenix, org.mozilla.fenix.nightly, org.mozilla.firefoxsend
 mullvad.net | net.mullvad.mullvadvpn, de.blinkt.openvpn
+nbc.com | com.nbcuni.nbc
 netflix.com | com.netflix.mediaclient
-nintendo.com | com.nintendo.znca
-oneplus.com, oneplus.net | net.oneplus.forums, com.oneplus.card
+nintendo.com | com.nintendo.znca, com.nintendo.zaca, com.nianticlabs.pokemongo, jp.pokemon.pokemonhome
+oneplus.com, oneplus.net | net.oneplus.forums, com.oneplus.card, net.oneplus.push
 patreon.com | com.patreon.android
 paypal.com | com.paypal.android.p2pmobile
+piazza.com | com.piazza.android
 reddit.com | com.reddit.frontpage, com.andrewshu.android.reddit, com.andrewshu.android.redditdonation
+reef-education.com | com.mnv.reef
+slack.com | com.slack
 snapchat.com | com.snapchat.android
 soundcloud.com | com.soundcloud.android
 spotify.com | com.spotify.music
 stackoverflow.com, stackexchange.com | com.stackexchange.marvin
 steampowered.com, steamcommunity.com | com.valvesoftware.android.steam.community
+td.com | com.td, com.td.myspend
 trello.com | com.trello
 twitch.tv | tv.twitch.android.app
 twitter.com | com.twitter.android
