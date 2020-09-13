@@ -7,4 +7,4 @@ Therefore, contributions are welcome! You can help out in the following ways.
 If you're comfortable with making a pull request, feel free to do so. The only thing I ask is that you preserve the alphabetical order in `db.txt`.
 
 ## Opening an Issue
-If you're not comfortable with editing the file yourself, feel free to [open an issue](/issues/new/choose) if you have an app or apps you'd like to see added.
+If you're not comfortable with editing the file yourself, feel free to [open an issue](https://github.com/zedseven/android-application-id-url-db/issues/new/choose) if you have an app or apps you'd like to see added.
